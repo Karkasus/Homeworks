@@ -1,0 +1,8 @@
+total 212
+-rw-r--r-- 1 devop devop 190176 Jun 30 00:05 executable.txt
+-rw-r--r-- 1 devop devop   4475 Jun 30 00:10 etc_dir.txt
+-rwxr--r-- 1 devop devop     79 Jun 29 22:50 tesh.sh
+-rwxr--r-- 1 devop devop     58 Jun 30 00:04 executable.sh
+-rwxr--r-- 1 devop devop     44 Jun 30 00:10 etc_dir.sh
+-rwxr--r-- 1 devop devop     31 Jun 30 00:18 varlog.sh
+-rw-r--r-- 1 devop devop      0 Jun 30 00:18 varlog.txt
